@@ -1,5 +1,8 @@
 # BMI Calculator
 
+[View the project](https://644039a6d8a4080b62d834da--chic-granita-2d74a6.netlify.app/)
+
+
 This is a simple BMI (Body Mass Index) calculator built with React. It allows users to enter their weight and height, and calculates their BMI based on the metric system (kg/m²). The calculator also provides a message to the user based on their BMI result, indicating whether they are underweight, at a healthy weight, or overweight.
 
 The project is a great example of how to use React to build a simple yet useful tool that can help users keep track of their health and fitness goals.
