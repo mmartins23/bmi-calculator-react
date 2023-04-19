@@ -53,8 +53,8 @@ function App() {
           </div>
 
           <div>
-            <button className="btn" type="submit">Submit</button>
-            <button className="btn btn-outline" onClick={reload} type="submit">Reload</button>
+            <button className="btn" type="submit">Calculate</button>
+            <button className="btn btn-outline" onClick={reload} type="submit">Reset</button>
           </div>
         </form>
 
