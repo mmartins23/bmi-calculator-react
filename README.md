@@ -9,7 +9,7 @@ The project is a great example of how to use React to build a simple yet useful 
 - [Introduction](#bmi-calculator)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Documentation](#documentation)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -44,9 +44,9 @@ Follow the instruction below:
 10. To deploy the application, run npm run build to create a production-ready build of the application. Then, follow the deployment instructions for your hosting provider of choice.
 
 
-## Project Design and Development
+## Documentation
 
-Instructions on how to use the project or any example usage.
+Documentation that outlines how the code is intended to be used and provides examples of its usage is essential for facilitating understanding and enabling effective use of the code. 
 
 * States
 
