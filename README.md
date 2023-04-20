@@ -2,6 +2,8 @@
 
 This is a simple React web application that calculates BMI (Body Mass Index) and displays a message and an image based on the BMI value.
 
+[Launch Live Preview](hhttps://cute-croissant-2587ec.netlify.app/)
+
 
 ## Table of Contents
 
